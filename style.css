@@ -150,7 +150,7 @@
     
 }
 .h{
-    max-width: 1220px;
+    max-width: 1200px;
     margin: auto;
     margin-bottom: 700px;
 }
@@ -160,6 +160,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 60px;
 }
 .op{
     text-align: center;
@@ -181,3 +182,19 @@
     bottom: 260px;
     left: 220px;
 }  
+.cb01{
+    max-width: 1200px;
+    margin: auto;
+    
+}
+.lo{
+    position: relative;
+    bottom: 85px;
+
+}
+.jk{
+    background-color: black;
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+}
