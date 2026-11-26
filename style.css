@@ -53,4 +53,31 @@
     align-items: center;
     gap:20px;
 }
-
+.l{
+    color: #ff9c08"
+}
+.cb6{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.i1{
+    width: 600px; 
+}
+.cb7{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    gap: 25px;
+    align-items: center;
+}
+.cb8{
+    background-color: #FEF9F2;  
+}
+.ll{
+    max-width: 1200px; 
+    margin: auto
+}
