@@ -110,7 +110,9 @@
     justify-content: center
 }
 .fd{
-
+    display: flex;
+    justify-content: center;
+   gap: 20px;
 }
 .fd1{
     text-align: start; 
@@ -151,4 +153,27 @@
     max-width: 1220px;
     margin: auto;
     margin-bottom: 700px;
+}
+.cb1{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.op{
+    
+    text-align: center;
+    width: 390px;
+    height: 450px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px -0px 5px   gray;
+}
+.pi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+   
 }
