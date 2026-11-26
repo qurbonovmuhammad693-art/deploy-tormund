@@ -1,10 +1,10 @@
 *{
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
 }
 .dv1{
     display: flex;
-    max-width: 1220px;
+    max-width: 1200px;
     margin: auto;
     justify-content: space-between;
     padding: 30px 0px;
@@ -19,3 +19,38 @@
     align-items: center;
     gap: 20px;
 }
+.btn{
+    padding: 15px 23px;
+    border-radius: 10px;
+    font-weight: 800;
+    background-color: #FF9C08;
+    border: none;
+}
+.btn2{
+    background-color: white;
+    border: 2px solid rgb(238, 238, 238);
+}
+.cb4{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    align-items: center;
+    gap: 30px;
+}
+.c1{
+    width: 120px;
+    height: 3px;
+    background-color: #FF9C08;
+}
+.h1{
+    font-size: 55px;
+}
+.o1{
+    color: gray;
+}
+.cb5{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+
