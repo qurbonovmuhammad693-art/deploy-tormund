@@ -104,6 +104,21 @@
     margin: auto;
     justify-content: space-between;
 }
+.rr{
+    display: flex; 
+    gap: 20px; 
+    justify-content: center
+}
+.fd{
+
+}
+.fd1{
+    text-align: start; 
+    display: flex; 
+    max-width: 1200px; 
+    margin: auto; 
+    gap: 60px;
+}
 .btn3{
     padding: 15px 35px;
     border: none;
@@ -115,19 +130,25 @@
     color: black;
     background-color: #ffffff;
 }
+.b{
+    width: 620px;
+}
+.r{
+    background-color: #FFD4A4;
+    height: 700px;
+}
+.c{
+    max-width: 1200px;
+    margin: auto;
+}
 .d2{
     text-align: center;
      position:absolute;
     top: 3700px;
     
 }
-.g{
+.h{
     max-width: 1220px;
     margin: auto;
     margin-bottom: 700px;
-}
-
-.rang{
-    background-color: #FFD4A4;
-    height: 700px;
 }
